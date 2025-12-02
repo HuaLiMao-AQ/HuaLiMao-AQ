@@ -38,6 +38,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuaLiMao-AQ&show_icons=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaLiMao-AQ&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuaLiMao-AQ&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuaLiMao-AQ&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HuaLiMao-AQ&theme=radical&hide_border=true" />
 </div>
