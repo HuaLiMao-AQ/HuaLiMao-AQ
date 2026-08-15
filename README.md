@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=HuaLiMao-AQ;Computer+Science+Student;Backend+%7C+Rust+%7C+Systems" />
+# HuaLiMao-AQ
 
-<br/>
+### Computer Science Student
+
+`Backend` · `Rust` · `Systems` · `Linux`
+
+<br>
 
 <sub>
 Building software systems and exploring how things work.
