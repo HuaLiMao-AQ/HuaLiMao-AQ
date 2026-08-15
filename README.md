@@ -67,17 +67,6 @@ Currently exploring Rust, Go backend development, and Linux systems.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="480"
-src="https://github-readme-stats-fast.vercel.app/api?username=HuaLiMao-AQ&show_icons=true&hide_border=true&theme=github_dark&hide=issues,contribs"/>
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
