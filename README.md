@@ -72,7 +72,7 @@ Currently exploring Rust, Go backend development, and Linux systems.
 <div align="center">
 
 <img width="480"
-src="https://github-readme-stats.vercel.app/api?username=HuaLiMao-AQ&show_icons=true&hide_border=true&theme=github_dark&hide=issues,contribs&rank_icon=github"/>
+src="https://github-readme-stats-fast.vercel.app/api?username=HuaLiMao-AQ&show_icons=true&hide_border=true&theme=github_dark&hide=issues,contribs"/>
 
 </div>
 
