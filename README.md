@@ -1,6 +1,6 @@
 <div align="center">
 
-# HuaLiMao-AQ
+# HualiNox
 
 ### Computer Science Student
 
